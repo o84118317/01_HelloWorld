@@ -1,4 +1,5 @@
-# hello-world-
+# hello-world
 
-Hi human!
-This is my first try.
+Hi!
+This is my first JavaScript practice file.
+Everthing in it is just a record of my practicing.
